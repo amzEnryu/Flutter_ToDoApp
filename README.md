@@ -3,6 +3,8 @@
 A new Flutter project.
 This is an app for me to practice with provider
 Search feature is not done
+![todoapp1](https://github.com/amzEnryu/Flutter_ToDoApp/assets/103646759/fc24f20c-aeae-4bc1-86f7-358dbb077e60)
+![todoapp2](https://github.com/amzEnryu/Flutter_ToDoApp/assets/103646759/d8caef6b-60ba-41f3-80da-8b8d9ccd2b0e)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
